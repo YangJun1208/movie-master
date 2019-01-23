@@ -1,7 +1,6 @@
 package com.bw.movie.loginactivity;
 
 import android.os.Bundle;
-
 import com.bw.movie.base.BaseActivity;
 
 public class RegsterActivity extends BaseActivity {
@@ -16,7 +15,7 @@ public class RegsterActivity extends BaseActivity {
     }
 
     @Override
-    protected int getLayoutResId() {
+    protected int getLayoutResId(){
         return 0;
     }
 }
